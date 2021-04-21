@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BionicBread
+- 👋 Hi, I’m @BionicBread (Chris irl) 
 - 👀 I’m interested in ... food and coding
 - 🌱 I’m currently learning ... c#, js and python
 - 💞️ I’m looking to collaborate on ... anything, must be easy cos I R noob
